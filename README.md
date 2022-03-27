@@ -4,7 +4,7 @@ There are two files for 2 different hardware
 
 For GTX 10 series, we can use the file named trash_gtx
 
-For GTX 30 series, we can use the file named trash_rtx
+For RTX 30 series, we can use the file named trash_rtx
 
 There are some files needed to be installed from Google Drive from [here](https://drive.google.com/drive/folders/1oGQruHpRcgoxh3xPyff0J2_gYCEcGpQk?usp=sharing):
 

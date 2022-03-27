@@ -13,6 +13,6 @@ In the Google Drive, we have yolov3_custom_fyp_last.weights. This need to be sto
 Depends on what file you use, we need to replace the missing files from Google Drive either Trash GTX or Trash RTX into
 trash_rtx or trash_gtx.
 
-For example, from trash_gtx folder in google drive, download and locate in the trash_gtx folder as the same as main.py. The same goes to trash_rtx
+For example, from trash_gtx folder in google drive, download the files and locate in the trash_gtx folder as the same as main.py. The same goes to trash_rtx
 
 
